@@ -24,7 +24,7 @@ nav a{
 .banner-area{
 	width: 100%;
 	height: 100vh;
-	background: url(letter.jpeg);
+	background: url(segregation/letter.jpeg);
 	background-position: center;
 	-webkit-background-size: cover;
 	background-size: cover;
